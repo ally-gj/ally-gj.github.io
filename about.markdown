@@ -6,6 +6,8 @@ permalink: /about/
 
 Hello! My name is Ally Goodman-Janow and I am a Software Developer.
 
+![](imgs/me_again.jpeg)
+
 I have a Bachelors of Science from the Univertsity of New Mexico with a focus in Computer Science, and a minor in Interdisciplinary Film and Digital Media.
 
 I graduated in 2018 with a cumulative GPA of 3.8 and with honors.
