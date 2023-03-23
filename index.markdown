@@ -5,51 +5,24 @@
 layout: home
 ---
 
-[//]: [![](https://img.youtube.com/vi/t0HaSMWAEm0/0.jpg)](https://youtu.be/t0HaSMWAEm0)
+Hello! My name is Ally Goodman-Janow and I am a Software Developer.
 
-# School Projects
+![](imgs/me_again.jpeg)
 
-## Assimilated
+I have a Bachelors of Science from the Univertsity of New Mexico with a focus in Computer Science, and a minor in Interdisciplinary Film and Digital Media.
 
-A school project for pre-capstone where I was the one and only programmer.
-This was my first time using Unity and exploring what all it could do.
+I graduated in 2018 with a cumulative GPA of 3.8 and with honors.
 
-*VIDEO HERE*
+I've been working at a tech company in Corrales, NM since I graduated and have become the Managing Senior Developer over the course of 6 years. I'm tasked with HR, team management, as well as programming and maintaining the framework we use everyday.
 
-## Cosmo Ball
+Unity and C# are my main programming go-to's, but I have used many other languages, such as Java, C, C++, Javascript, and so on. (Entire list can be found in my resume)
 
-A sports-like 3D multi-player game where the objective is to hold on to the ball for as long as possible.
-To obtain the ball, be faster than your oppenents and use your surroundings to escape.
+Web languages are also something I've learned over the years, so I've played with PHP, Laravel, HTML, Vue, Directus and more.
 
-Can be used with a mouse and keyboard, or an Xbox Controller.  
+Overall, I'm pretty flexible when it comes to learning, and I can pick up new programs / languages quickly.
 
-*VIDEO HERE*
-
-## Carry On
-
-A senior Capstone project where I was the one and only programmer.
-This was my first time using Unity 3D, landscape generation, 3D animations, and particle effects.
-
-*VIDEO HERE*
+My greatest joys in programming are 2D UI/UX and animations, but 3D also intrigues me since I don't often get the chance to use it in my current line of work.
 
 
+<i>If you would like a copy of my resume, please email me at</i> <b>allygoodmanj@gmail.com</b>
 
-# Work Projects
-
-## African Art
-
-## EM Spectrum 
-
-## Austin Condos
-
-## JCC Donor Wall
-
-## Altoona Historical Viewer
-
-## Colonial Williamsburg 
-
-## San Diego Zoo Applications
-
-## Bisti Beast
-
-## Unity Asset Package: 3D Book 
