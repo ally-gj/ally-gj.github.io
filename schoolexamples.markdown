@@ -4,7 +4,7 @@ title: Early Projects
 permalink: /sch-works/
 ---
 
-[//]: [![](https://img.youtube.com/vi/lYyLEDrB0Ao/0.jpg)](https://youtu.be/lYyLEDrB0Ao)
+[//]: [![](https://img.youtube.com/vi/yeOtA_-jads/0.jpg)](https://youtu.be/yeOtA_-jads)
 
 # School and Early Projects
 

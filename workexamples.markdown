@@ -14,9 +14,13 @@ I was in charge of programming the UI, image loading, and general animations.
 
 * 2019, Unity, C#
 
+[![](https://img.youtube.com/vi/n0PRODIuWLg/0.jpg)](https://youtu.be/n0PRODIuWLg)
+
+Click to play video!
+
 [![](https://img.youtube.com/vi/62N_8xoxX8A/0.jpg)](https://youtu.be/62N_8xoxX8A)
 
-Video credit: Ideum
+Click to play video! Video credit: Ideum
 
 # <u>Electromagnetic Spectrum Object Viewer</u>
 A touch table application built to let users look at different objects in different wavelengths.
@@ -28,6 +32,10 @@ I made a 4k version which includes 4 wavelengths, an 8k version which includes a
 I have also made this version in English, Spanish, German, and Arabic with the use of TextMeshPro. 
 
 * 2018 to current, Unity, C#, shaders (hlsl) 
+
+[![](https://img.youtube.com/vi/yeOtA_-jads/0.jpg)](https://youtu.be/yeOtA_-jads)
+
+Click to play video!
 
 # <u>Austin Condos Real Estate App</u>
 A touch wall application made for a realty company in Austin, Texas, used for selling $$$ condos in a building that didn't yet exist.
@@ -50,6 +58,10 @@ The design was inspired by the Tree of Life, and each donor name gets added to a
 
 * 2021, Unity, C#, Google Sheets API
 
+[![](https://img.youtube.com/vi/aTDb8KPxSt4/0.jpg)](https://youtu.be/aTDb8KPxSt4)
+
+Click to play video!
+
 # <u>Synagogues 360</u>
 An immersive experience application written for the Sherwin Miller Museum of Jewish Art (located in Tulsa, Oklahoma) when a very talented photographer and donor Louis Davidson became ill and needed a way to memorialize his 360 panorama images of Synagogues from all over the world. 
 
@@ -57,9 +69,21 @@ This application features over 600 panormas that can be explored by location or 
 
 * 2019, Unity, C#
 
+[![](https://img.youtube.com/vi/Kolj-M-xWVU/0.jpg)](https://youtu.be/Kolj-M-xWVU)
+
+Click to play video!
+
 # <u>Altoona Historical Viewer</u>
 
+[![](https://img.youtube.com/vi/3UH13nUlduA/0.jpg)](https://youtu.be/3UH13nUlduA)
+
+Click to play video!
+
 # <u>Colonial Williamsburg</u>
+
+[![](https://img.youtube.com/vi/uwuh1e3bZ8k/0.jpg)](https://youtu.be/uwuh1e3bZ8k)
+
+Click to play video!
 
 # <u>San Diego Zoo Applications</u>
 
