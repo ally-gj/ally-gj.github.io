@@ -75,11 +75,20 @@ Click to play video!
 
 # <u>Altoona Historical Viewer</u>
 
+The Altoona, Iowa Historical Viewer was created for the Altoona, Iowa Historial Society so that they could post about upcoming events, show pictures of founders, leaders, and the community, as well as view a map of the area and mark interesting places to visit. 
+
+* 2020, Unity, C#
+
 [![](https://img.youtube.com/vi/3UH13nUlduA/0.jpg)](https://youtu.be/3UH13nUlduA)
 
 Click to play video!
 
 # <u>Colonial Williamsburg</u>
+
+Pair programmed with a coworker for the Colonial Willaimsburg onsite museum.
+Contains collections of maps and prints that have been digitized so that users can view items up close, as well as items that aren't on display.
+
+* 2019, Unity, C#
 
 [![](https://img.youtube.com/vi/uwuh1e3bZ8k/0.jpg)](https://youtu.be/uwuh1e3bZ8k)
 
@@ -87,7 +96,50 @@ Click to play video!
 
 # <u>San Diego Zoo Applications</u>
 
+* 2021, Unity, C#, Arduino, SMTP
+
+There were about 6 different software applications that we were hired to make for the San Diego Zoo's new bugarium in 2021, and I made 2 of them: the Microscope Station and the Conservation Quiz.
+
+The microscope station consisted of a usb connected microscope, a push button, and a touch screen.
+Children would pick a specimen, place it under the microscope, then use the push button to take a picture of it.
+
+![](sdz1.png)
+
+That picture would show up in the software and would allow the kids to draw on it, place stickers, and add filters.
+They could then email it to themselves. 
+![](sdz2.png)
+
+![](sdz3.png)
+
 # <u>Bisti Beast</u>
+
+* 2019, Unity, C#
+
+The Bisti Beast application was built for the New Mexico Museum of Natural History after archeologists discovered fossils of a new type of T-Rex, that they later named the Bisti Beast. 
+
+I worked closely with an archeologist / geologist to gather the content / text / images / videos for the application.
+
+![](bb1.png)
+
+![](bb2.png)
+
+![](bb3.png)
+
+# <u>California Science Center: Life Beginnings!</u>
+
+* 2020, Unity, C#
+
+[![](https://img.youtube.com/vi/FOQGb0XzLAs/0.jpg)](https://youtu.be/FOQGb0XzLAs)
+
+Click to play video!
+
+# <u>Valle de Oro National Wildlife Refuge: A Refuge Story (1/5)</u>
+
+* 2021-22, Unity, C#, Audio Accessibility Layer
+
+[![](https://img.youtube.com/vi/TzUZQDo1Ol8/0.jpg)](https://youtu.be/TzUZQDo1Ol8)
+
+Click to play video!
 
 # <u>Unity Asset Package: 3D Book</u>
 A Unity Package created by me that started out as an R&D project and turned into a really cool 3D book application.
