@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## <a href="../index.html">Go Home</a>
-## <a href="./pro-works/index.html">View Professional Works</a>
+## <a href="../pro-works/index.html">View Professional Works</a>
 
 <object data="../Resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../Resume.pdf">
