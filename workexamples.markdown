@@ -6,6 +6,7 @@ parent: Home
 ---
 
 ## <a href="../index.html">Go Home</a>
+## <a href="../resume/index.html">View Resume</a>
 
 
 All of the following works have been programmed by myself, unless otherwise specified.

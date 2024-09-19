@@ -8,6 +8,7 @@ has_children: true
 ---
 
 ## <a href="./pro-works/index.html">View Professional Works</a>
+## <a href="./resume/index.html">View Resume</a>
 
 Hello! My name is Ally Goodman-Janow and I am a Software Developer.
 
@@ -25,6 +26,6 @@ Web languages are also something I've learned over the years, so I've played wit
 
 Overall, I'm pretty flexible when it comes to learning, and I can pick up new programs / languages quickly.
 
-My greatest joys in programming are 2D UI/UX and animations, but 3D also intrigues me since I don't often get the chance to use it in my current line of work.
+Soft skills include: organization, professional communications (written and verbal), creative thinking, & problem solving 
 
 
