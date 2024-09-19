@@ -1,9 +1,15 @@
 ---
-layout: page
+layout: default
 title: Professional Works
 permalink: /pro-works/
+parent: Home
 ---
+
+## <a href="../index.html">Go Home</a>
+
+
 All of the following works have been programmed by myself, unless otherwise specified.
+
 
 # <u>African Art</u>
 A touch table application made for the National Smithsonian Museum of African American History and Culture in Washington, D.C.

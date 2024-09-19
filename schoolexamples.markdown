@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Early Projects
 permalink: /sch-works/
 ---
 
-[//]: [![](https://img.youtube.com/vi/yeOtA_-jads/0.jpg)](https://youtu.be/yeOtA_-jads)
+[//]: [![](https://img.youtube.com/vi/3UH13nUlduA/0.jpg)](https://youtu.be/3UH13nUlduA)
 
 # School and Early Projects
 
