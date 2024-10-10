@@ -8,8 +8,10 @@ parent: Home
 ## <a href="../index.html">Go Home</a>
 ## <a href="../resume/index.html">View Resume</a>
 
+Over the past 7+ years I have single-handedly programmed 50+ touch table applications.
+Below are a handful of the ones I'm most proud of. Enjoy!
 
-All of the following works have been programmed by myself, unless otherwise specified (latest projects at the top).
+<b>Note: </b>All of the following works have been programmed by myself, unless otherwise specified (latest projects at the top).
 
 # <u>Space Needle</u>
 The Seattle Space Needle commissioned us to make them an application that could sit at the top of the Space Needle and help users identify local landmarks and businesses.
@@ -20,6 +22,8 @@ An outdoor rated camera, mounted at the top of the Space Needle, sends live stre
 
 <img src="spaceneedle_4.JPG" width="700"/>
 <img src="spaceneedle_6.JPG" width="700"/>
+<img src="spaceNeedleKiosk.jpg" width="700"/>
+
 
 # <u>Voices from the Front & Our War Too</u>
 I worked with our web developer and Storyfile API to create an AI experience for the National World War II Museum that featured life-sized retired veterans.
@@ -31,12 +35,16 @@ Users can select the veteran which they'd like to talk to, and then ask them que
 
 <img src="OurWarToo.png" width="700"/>
 <img src="OurWarToo2.png" height="500"/>
+<img src="ww2.jpg" width="700"/>
 
 
 # <u>Chelan County PUD</u>
 Created a 3x3 touch wall experience for a utilities company in Chelan Washington to teach people about the different types of rebates they could apply for, whilst being eye catching and a representation of the town itself. This application included many moving parts, animations, and logic to change the UI based on the seasons. 
 
 * 2023, Unity, C#
+
+<img src="chelan1.jpg" width="700"/>
+<img src="chelan2.jpg" width="700"/>
 
 [![](https://img.youtube.com/vi/pLaHb1o9Ek8/0.jpg)](https://youtu.be/pLaHb1o9Ek8)
 
@@ -48,6 +56,10 @@ Myself and one other talented developer created a large-scale application for th
 Apps also included a locally hosted content management system (written using Directus CMS) and two side projected walls that show "Profiles in Creativity" as well as the program schedule. All applications had to be networked together in order to sync correctly and share content between the screens. 
 
 * 2022 - 2024, Unity, C#, Netcode
+
+<img src="dv1.jpg" width="700"/>
+<img src="dv2.jpg" width="700"/>
+<img src="dv3.jpg" width="700"/>
 
 <a href="https://ideum.com/portfolio/curiosity-hall-davinci-science-center">Read more about it here</a>
 
@@ -61,6 +73,14 @@ This included a backend database of verizon plans, phones, accessories, and deal
 We worked on two different versions with two different design teams. 
 
 * 2023, Unity, C#
+
+Version 1, click to play video
+
+[![](https://img.youtube.com/vi/XKEV8JHtqCY/0.jpg)](https://youtu.be/XKEV8JHtqCY)
+
+Version 2, click to play video
+
+[![](https://img.youtube.com/vi/liXaJnG1jEU/0.jpg)](https://youtu.be/liXaJnG1jEU)
 
 
 # <u>Unity Asset Package: 3D Book</u>
@@ -79,6 +99,8 @@ Click to play video!
 
 * 2021-22, Unity, C#, Audio Accessibility Layer
 
+<img src="vdo.jpg" width="700"/>
+
 [![](https://img.youtube.com/vi/TzUZQDo1Ol8/0.jpg)](https://youtu.be/TzUZQDo1Ol8)
 
 Click to play video!
@@ -86,7 +108,7 @@ Click to play video!
 
 # <u>San Diego Zoo Applications</u>
 
-* 2021, Unity, C#, Arduino, SMTP
+* 2021, Unity, C#, Shaders, Arduino, SMTP
 
 There were about 6 different software applications that we were hired to make for the San Diego Zoo's new bugarium in 2021, and I made 2 of them: the Microscope Station and the Conservation Quiz.
 
@@ -101,6 +123,9 @@ They could then email it to themselves.
 
 ![](sdz3.png)
 
+<img src="sdzMic1.jpg" width="700"/>
+<img src="sdzMic2.jpg" width="700"/>
+
 
 # <u>JCC Donor Wall</u>
 The Jewish Community Center wanted to replace their existing donor wall with a newer, more high-tech option, so we made them a digital interactive with an externalized CMS so they can add / remove / keep track of donors going forward.
@@ -112,6 +137,15 @@ The design was inspired by the Tree of Life, and each donor name gets added to a
 [![](https://img.youtube.com/vi/aTDb8KPxSt4/0.jpg)](https://youtu.be/aTDb8KPxSt4)
 
 Click to play video!
+
+# <u>New Mexico Partnership</u>
+This application was made for New Mexico Partnership to show different tourist locations / places of interest around New Mexico.
+Users drag a wayfinder around a map of New Mexico and are shown a list of interesting things they can do / visit in that area.
+
+* 2021, Unity, C#, Google Sheets API, Google Drive API
+
+<img src="nmp1.jpg" width="700"/>
+<img src="nmp2.jpg" width="700"/>
 
 
 # <u>California Science Center: Life Beginnings!</u>
@@ -183,6 +217,9 @@ Contains collections of maps and prints that have been digitized so that users c
 
 * 2019, Unity, C#
 
+<img src="cw1.jpg" width="700"/>
+<img src="cw2.jpg" width="700"/>
+
 [![](https://img.youtube.com/vi/uwuh1e3bZ8k/0.jpg)](https://youtu.be/uwuh1e3bZ8k)
 
 Click to play video!
@@ -204,6 +241,14 @@ Click to play video!
 [![](https://img.youtube.com/vi/62N_8xoxX8A/0.jpg)](https://youtu.be/62N_8xoxX8A)
 
 Click to play video! Video credit: Ideum
+
+# <u>Qualcomm / XPrize</u>
+This application was in collaboration with Qualcomm & XPrize to entice kids into the wonderful world of science and technology.
+The application was broken down into 3 main parts: Diagnosis, Create your own Tricorder, & Sensor Station. Each piece of the application was meant to show how technology could be used in parallel with the medical field, and tried to bring the kids into specific situations in which these technologies could actually be utilized in the real world. 
+
+* 2018, Unity, C#, 3D Models, Textures, Heart Rate Sensor, Skin Conductivity Sensor
+
+<img src="qualcomm.jpg" width="700"/>
 
 
 # <u>Electromagnetic Spectrum Object Viewer</u>

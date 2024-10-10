@@ -33,6 +33,8 @@ I have utilized web languages, such as PHP, Laravel, HTML, CSS, Vue.js, Node.js,
 
 I have also played with kinects, arduinos, and microcontrollers.
 
+<img src="imgs/microcontrollers.jpg" width="700"/>
+
 Soft skills include: organization, professional communications (written and verbal), creative thinking, & problem solving.
 
 My goal is to eventually get into the video game industry and make fun games for everyone to enjoy.
