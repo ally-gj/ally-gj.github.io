@@ -4,11 +4,12 @@
 
 layout: default
 title: Home
-has_children: true
 ---
-
+<!-- 
 ## <a href="./pro-works/index.html">View Professional Works</a>
-## <a href="./resume/index.html">View Resume</a>
+## <a href="./resume/index.html">View Resume</a> -->
+
+{% include Menu.html %}
 
 Hello! My name is Ally Goodman-Janow and I am a Software Developer.
 

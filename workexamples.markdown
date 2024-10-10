@@ -2,13 +2,14 @@
 layout: default
 title: Professional Works
 permalink: /pro-works/
-parent: Home
 ---
 
-## <a href="../index.html">Go Home</a>
-## <a href="../resume/index.html">View Resume</a>
+<!-- ## <a href="../index.html">Go Home</a>
+## <a href="../resume/index.html">View Resume</a> -->
 
-Over the past 7+ years I have single-handedly programmed 50+ touch table applications.
+{% include Menu.html %}
+
+Over the past 7+ years I have programmed 50+ touch table applications.
 Below are a handful of the ones I'm most proud of. Enjoy!
 
 <b>Note: </b>All of the following works have been programmed by myself, unless otherwise specified (latest projects at the top).

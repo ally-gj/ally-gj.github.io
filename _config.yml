@@ -21,7 +21,7 @@
 title: Ally's Portfolio
 email: allygoodmanj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my work portfolio. These are a subset of the applications I've worked on over the past 7 years. Enjoy!
+  Welcome to my work portfolio. These are a subset of the applications I've worked on over the past 7+ years. Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ally-gj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

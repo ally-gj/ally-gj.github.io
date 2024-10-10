@@ -4,6 +4,8 @@ title: Early Projects
 permalink: /sch-works/
 ---
 
+{% include Menu.html %}
+
 [//]: [![](https://img.youtube.com/vi/3UH13nUlduA/0.jpg)](https://youtu.be/3UH13nUlduA)
 
 # School and Early Projects
@@ -13,7 +15,9 @@ permalink: /sch-works/
 A school project for pre-capstone where I was the one and only programmer.
 This was my first time using Unity and exploring what all it could do.
 
-* 2017, Unity, Javascript
+* 2017, Unity, Javascript, 2D side-scroller, Full Game
+
+Click to watch video!
 
 [![](https://img.youtube.com/vi/ckHvskscQS0/0.jpg)](https://youtu.be/ckHvskscQS0)
 
@@ -24,7 +28,9 @@ To obtain the ball, be faster than your oppenents and use your surroundings to e
 
 Can be used with a mouse and keyboard, or an Xbox Controller.  
 
-* 2018, Unity, C#
+* 2018, Unity, C#, Group project
+
+Click to watch video!
 
 [![](https://img.youtube.com/vi/0khFpXB2xiQ/0.jpg)](https://youtu.be/0khFpXB2xiQ)
 
@@ -33,6 +39,6 @@ Can be used with a mouse and keyboard, or an Xbox Controller.
 A senior Capstone project where I was the one and only programmer.
 This was my first time using Unity 3D, landscape generation, 3D animations, and particle effects.
 
-*VIDEO HERE*
+* 2018, Unity, C#, 3D Models, Full Game
 
 
