@@ -4,15 +4,27 @@ title: Professional Works
 permalink: /pro-works/
 ---
 
-<!-- ## <a href="../index.html">Go Home</a>
-## <a href="../resume/index.html">View Resume</a> -->
-
 {% include Menu.html %}
 
 Over the past 7+ years I have programmed 50+ touch table applications.
 Below are a handful of the ones I'm most proud of. Enjoy!
 
 <b>Note: </b>All of the following works have been programmed by myself, unless otherwise specified (latest projects at the top).
+
+# <u>Robinson Nature Center</u>
+Robinson Nature Center, located in Columbia, Maryland, wanted a fun way to educate school groups about the local wildlife and what they could be doing to help the wildlife grow and thrive. 
+
+The application is a 1 - 4 user game that takes you through a set of minigames, quiz questions, and global events to help you learn about your selected character: a terrapin, a monarch, or an osprey.
+
+There are two modes -- easy and hard -- that an employee can switch by using a secret gesture on the screen. 
+
+* 2024, Unity, C#, multi-user game, minigames, splines
+
+<img src="rnc1.jpg" width=700/>
+<img src="rnc2.jpg" width=700/>
+<img src="rnc3.jpg" width=700/>
+<img src="rnc4.jpg" width=700/>
+<img src="rnc5.jpg" width=700/>
 
 # <u>Space Needle</u>
 The Seattle Space Needle commissioned us to make them an application that could sit at the top of the Space Needle and help users identify local landmarks and businesses.
