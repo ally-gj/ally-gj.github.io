@@ -26,6 +26,10 @@ There are two modes -- easy and hard -- that an employee can switch by using a s
 <img src="rnc4.jpg" width=700/>
 <img src="rnc5.jpg" width=700/>
 
+Watch the gameplay below!
+
+[![](https://img.youtube.com/vi/SH589q2pFaI/0.jpg)](https://youtu.be/SH589q2pFaI)
+
 # <u>Space Needle</u>
 The Seattle Space Needle commissioned us to make them an application that could sit at the top of the Space Needle and help users identify local landmarks and businesses.
 The application consists of a frontend and AWS hosted backend CMS that lets Space Needle staff add hotspots to a high definition image of the city. 
