@@ -20,11 +20,11 @@ There are two modes -- easy and hard -- that an employee can switch by using a s
 
 * 2024, Unity, C#, multi-user game, minigames, splines
 
-<img src="rnc1.jpg" width=700/>
-<img src="rnc2.jpg" width=700/>
-<img src="rnc3.jpg" width=700/>
-<img src="rnc4.jpg" width=700/>
-<img src="rnc5.jpg" width=700/>
+<img src="rnc1.JPG" width=700/>
+<img src="rnc2.JPG" width=700/>
+<img src="rnc3.JPG" width=700/>
+<img src="rnc4.JPG" width=700/>
+<img src="rnc5.JPG" width=700/>
 
 Watch the gameplay below!
 
