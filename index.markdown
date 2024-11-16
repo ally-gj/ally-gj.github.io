@@ -11,9 +11,9 @@ title: Home
 
 {% include Menu.html %}
 
-Hello! My name is Ally Goodman-Janow and I am a Software Developer.
+Hello! My name is Ally Goodman-Janow and I am a Senior Software Developer and Manager.
 
-<img src="./imgs/Ally-Headshot.jpg" alt="Headshot" width="500"/>
+<img src="./imgs/Ally-Headshot.jpg" alt="Headshot" width="400"/>
 
 ### A little bit about me
 
@@ -27,10 +27,12 @@ My job includes tasks such as
 * HR duties
 * scheduling meetings
 * hiring / onboarding / offboarding
+* application testing and bug reporting
+* creating processes for success
 
 <b>Unity and C#</b> are my main programming tools, but I have used many other languages, such as Java, C, C++, Javascript, and many more. (Entire list can be found in my resume)
 
-I have utilized web languages, such as PHP, Laravel, HTML, CSS, Vue.js, Node.js, Directus and more.
+I have utilized web languages, such as PHP, Laravel, HTML, CSS, Vue.js, Node.js, Directus, etc., and have experience using databases such as MySQL, SQLite, and PostgreSQL. 
 
 I have also played with kinects, arduinos, and microcontrollers.
 
