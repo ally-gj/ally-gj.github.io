@@ -32,15 +32,13 @@ My job includes tasks such as
 
 <b>Unity and C#</b> are my main programming tools, but I have used many other languages, such as Java, C, C++, Javascript, and many more. (Entire list can be found in my resume)
 
-I have utilized web languages, such as PHP, Laravel, HTML, CSS, Vue.js, Node.js, Directus, etc., and have experience using databases such as MySQL, SQLite, and PostgreSQL. 
+I have utilized web languages, such as HTML, CSS, Vue.js, Node.js, Directus, etc., and have experience using databases such as MySQL, SQLite, and PostgreSQL. 
 
 I have also played with kinects, arduinos, and microcontrollers.
 
 <img src="imgs/microcontrollers.jpg" width="700"/>
 
 Soft skills include: organization, professional communications (written and verbal), creative thinking, & problem solving.
-
-My goal is to eventually get into the video game industry and make fun games for everyone to enjoy.
 
 ### Companies for whom I've made applications
 
