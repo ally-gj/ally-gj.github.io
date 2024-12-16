@@ -17,20 +17,19 @@ Hello! My name is Ally Goodman-Janow and I am a Senior Software Developer and Ma
 
 ### A little bit about me
 
-I have worked at a tech company in Corrales, NM for the past 7+ years, starting as an intern and working my way up to "Managing Senior Developer". 
+For the past 7+ years, I have worked at a technology company in Corrales, NM, as the Managing Senior Developer. 
 
-My job includes tasks such as 
-* programming touch table applications
-* researching & learning new technologies
-* managing a team of developers
-* managing allocations
-* HR duties
-* scheduling meetings
-* hiring / onboarding / offboarding
-* application testing and bug reporting
-* creating processes for success
+My job included tasks such as: 
+* Programming touch table & desktop applications
+* Researching & learning new technologies / languages
+* Managing a team of 7-8 software developers
+* Managing project allocations
+* HR duties (onboarding, offboarding, training)
+* Scheduling meetings
+* Quality Assurance testing and bug reporting
+* Creating processes for success
 
-<b>Unity and C#</b> are my main programming tools, but I have used many other languages, such as Java, C, C++, Javascript, and many more. (Entire list can be found in my resume)
+<b>Unity and C#</b> are my main programming tools, but I have used many other languages, such as Java, C, C++, Javascript, and many more.
 
 I have utilized web languages, such as HTML, CSS, Vue.js, Node.js, Directus, etc., and have experience using databases such as MySQL, SQLite, and PostgreSQL. 
 
